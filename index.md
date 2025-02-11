@@ -29,4 +29,5 @@ EEVOC is here to **guide this shift**—from competition to cooperation, from sh
 ---  
 ## 🚀 Join the Evolution  
 Be part of humanity’s next leap.  
+
 [Learn More](problem.md) | [How to Get Involved](join.md)
